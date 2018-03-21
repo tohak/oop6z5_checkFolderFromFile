@@ -1,0 +1,1 @@
+# oop6z5_checkFolderFromFile
